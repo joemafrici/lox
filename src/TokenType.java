@@ -16,10 +16,5 @@ enum TokenType {
     AND, CLASS, ELSE, FALSE, FUN, FOR, IF, NIL, OR,
     PRINT, RETURN, SUPER, THIS, TRUE, VAR, WHILE,
 
-    // special token... very important
-    GINO_SUX,
-    // special token... food
-    joe_makes_noodles,
-
     EOF
 }
